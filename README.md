@@ -12,6 +12,16 @@ I turn operational problems into clear documentation, dependable workflows, and 
 
 ---
 
+## Recruiter quick view
+
+| Question | Evidence |
+| --- | --- |
+| **What roles fit?** | IT operations, IAM/identity support, cloud or application support, and technical implementation roles. |
+| **What is deployed?** | Seven public projects spanning Cloudflare, Rails/PostgreSQL, C++/Drogon, Docker, Vercel, and GitHub Pages. |
+| **What can be verified?** | Live applications, public source, automated tests, CI workflows, architecture notes, security boundaries, and reproducible local setup. |
+| **What is professional vs simulated?** | Professional support experience is described separately from fictional IAM casework, illustrative malware data, and portfolio demonstrations. |
+| **Where should I start?** | [IAM Support Operations Lab](https://github.com/joshua-l-delacruz/iam-support-operations-lab) for operations depth or the [C++ Calculator](https://github.com/joshua-l-delacruz/scientific-calculator-cpp) for software engineering. |
+
 ## What I bring
 
 - **Identity and access operations** — joiner/mover/leaver workflows, access requests, governance concepts, evidence handling, and audit-ready documentation.
