@@ -1,8 +1,8 @@
 <div align="center">
 
-# Joshua L. Dela Cruz
+# Joshua L. Dela Cruz — IT Operations, IAM & Cloud Support
 
-### IT Operations · Identity & Access Support · Application & Cloud Support
+### Evidence-led support operations · secure workflows · practical software delivery
 
 A professional portfolio of technical support practices, operational documentation, secure workflows, and independently built software projects.
 
