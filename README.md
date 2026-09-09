@@ -1,67 +1,77 @@
 <div align="center">
 
-# Joshua L. Dela Cruz — IT Operations, IAM & Cloud Support
+# IAM & Cloud Operations Engineer
 
-### Evidence-led support operations · secure workflows · practical software delivery
+### Enterprise Support + Automation · Identity Governance · Incident Engineering
 
-A professional portfolio of technical support practices, operational documentation, secure workflows, and independently built software projects.
+I connect enterprise support experience with independently designed, tested, and deployed technical systems. My strongest evidence is in IAM operations, access governance, structured incident handling, automation, and supportable cloud delivery.
 
-[Portfolio](https://joshuadelacruz.solutions) · [IAM Evidence](https://joshuadelacruz.solutions/iam-support/) · [Project Workspaces](https://joshuadelacruz.solutions/workspaces/) · [LinkedIn](https://www.linkedin.com/in/joshua-l-dela-cruz/)
+[Portfolio](https://joshuadelacruz.solutions) · [IAM Flagship](https://github.com/joshua-l-delacruz/iam-support-operations-lab) · [IAM Case Study](https://joshuadelacruz.solutions/iam-support/) · [LinkedIn](https://www.linkedin.com/in/joshua-l-dela-cruz/)
 
 </div>
 
 ---
 
-## Professional overview
+## Professional profile
 
-My work centers on reliable IT operations, structured troubleshooting, identity and access support, application support, and clear technical handoffs. This portfolio complements that experience with sanitized labs and independent projects focused on supportability, security boundaries, testing, and maintainable delivery.
+I bring 7+ years of formal enterprise IT support experience across incident ownership, access support, directory and application workflows, troubleshooting, escalation, and technical handoff. I complement that professional foundation with public portfolio systems that demonstrate identity lifecycle controls, operational decision support, APIs, containers, CI, security boundaries, and documented failure handling.
 
-## Areas of practice
+My public work is deliberately scoped: professional responsibilities, sanitized simulations, hands-on learning, and deployed independent projects are labeled separately. I do not present portfolio metrics as production outcomes.
 
-- **Enterprise service operations** — incident ownership, structured troubleshooting, escalation evidence, user communication, and operational handoff.
-- **Identity and access support** — account lifecycle tasks, access requests, directory services, identity-governance workflows, and access-control concepts.
-- **Application and cloud support** — HTTP and API troubleshooting, deployed application behavior, monitoring, containers, and cloud-hosted delivery.
-- **Technical delivery** — documentation, automation, testing, debugging, and validation with reviewable decisions and explicit limitations.
+## Primary portfolio evidence
 
-## Featured work
-
-| Project | What it demonstrates | Explore |
+| Priority | Repository | Evidence |
 | --- | --- | --- |
-| **IAM Support Operations Lab** | Sanitized IAM casework, JML workflows, access support, governance, Microsoft Entra ID, SailPoint concepts, audit evidence, and human escalation. | [Interactive lab](https://joshuadelacruz.solutions/iam-support/lab/) · [Source](https://github.com/joshua-l-delacruz/iam-support-operations-lab) |
-| **AI-Assisted IT Incident Triage** | Deterministic incident classification, optional AI enrichment, human-review gates, testable rules, and responsible handling boundaries. | [Source](https://github.com/joshua-l-delacruz/ai-it-incident-triage) |
-| **Pi 2048 Network Game** | Pi authentication, Rails API behavior, PostgreSQL leaderboard persistence, Docker, tests, and privacy-conscious score display. | [Play](https://2048.joshuadelacruz.solutions/) · [Source](https://github.com/joshua-l-delacruz/2048-pi-app) |
-| **Scientific & Programmer Calculator** | C++/Drogon REST APIs, expression parsing, fixed-width programmer operations, Docker packaging, and automated verification. | [Live demo](https://calculator.joshuadelacruz.solutions/) · [Source](https://github.com/joshua-l-delacruz/scientific-calculator-cpp) |
-| **Global Malware Trends** | A defensive C++ dashboard with transparent illustrative data, API boundaries, Docker, and CI. | [Live demo](https://malware.joshuadelacruz.solutions/) · [Source](https://github.com/joshua-l-delacruz/global-malware-trends-cpp) |
-| **Philippine Property Workspace** | Transaction estimates, buyer/seller allocation, saved deals, authenticated cloud storage, reporting, and owner-scoped records. | [Workspace](https://joshuadelacruz.solutions/realestate/) · [Source](https://github.com/joshua-l-delacruz/lab-docs) |
-| **Luzon Road Rush** | An original TypeScript browser game with traffic simulation, collision safeguards, automated rules tests, and responsive controls. | [Play](https://roadrush.joshuadelacruz.solutions/) · [Source](https://github.com/joshua-l-delacruz/luzon-road-rush) |
+| **Flagship** | **[IAM Support Operations Lab](https://github.com/joshua-l-delacruz/iam-support-operations-lab)** | Designed JML workflows, Risk Assessment, Access Reviews, Segregation of Duties, Privileged Access, Exception Handling, Audit Evidence, five incident cases, and a production-readiness plan. |
+| **Primary** | **[IT Incident Triage & Decision Support](https://github.com/joshua-l-delacruz/ai-it-incident-triage)** | Implemented deterministic incident classification, optional AI enrichment, P1-P4 controls, human-review gates, explainable routing, and testable operating boundaries. |
+| **Primary** | **[Lab Docs / Portfolio Platform](https://github.com/joshua-l-delacruz/lab-docs)** | Deployed the portfolio, IAM simulator, operational case studies, Cloudflare Worker controls, security-policy tests, and the documentation system connecting the evidence. |
 
-## Delivery approach
+## IAM flagship: validated PoC evidence
+
+- **Designed** three Joiner-Mover-Leaver runbooks and eight role-entitlement control entries.
+- **Implemented** five sanitized IAM incident cases across authentication, provisioning, Conditional Access, failed deprovisioning, and SoD risk.
+- **Evaluated** 31 fictional access-review assignments across 18 identities, documenting 26 approvals, 3 revocations, 1 time-limited decision, and 1 investigation.
+- **Validated** seven deterministic assistant scenarios and seven automated safety and behavior tests.
+- **Deployed** an interactive fictional IAM operations simulator with standard-access automation, human escalation, failure-generated incidents, and exportable local audit evidence.
+
+These are controlled repository, test-suite, and fictional-campaign counts—not employer metrics, production scale, or measured business impact.
+
+## Engineering proof
+
+| Repository | Why it matters |
+| --- | --- |
+| **[Pi 2048 Network Application](https://github.com/joshua-l-delacruz/2048-pi-app)** | End-to-end delivery across server-verified authentication, Rails APIs, PostgreSQL persistence, Docker, health checks, rate limiting, deployment, and documented trust boundaries. |
+| **[C++ Scientific & Programmer Calculator](https://github.com/joshua-l-delacruz/scientific-calculator-cpp)** | Lower-level engineering through a C++17/Drogon API, custom parsing, fixed-width arithmetic, validation, Docker packaging, health endpoints, and CI. |
+
+Other repositories remain available as [supporting evidence](https://joshuadelacruz.solutions/workspaces/) of broader implementation range without competing with the IAM and operations narrative.
+
+## Operations and governance approach
 
 ```text
-Understand the incident or workflow
-→ define scope and trust boundaries
-→ build the smallest useful solution
-→ test important paths and failure states
-→ document the handoff
-→ improve from verified feedback
+Business or lifecycle event
+→ validate identity, authority, and impact
+→ assess role, privilege, policy, and SoD risk
+→ automate only the standard, explainable path
+→ route exceptions and sensitive actions to a human owner
+→ confirm the target-system result
+→ retain evidence, monitor failure, and improve the runbook
 ```
 
-The repositories favor explicit limitations, reproducible setup, least-privilege defaults, automated checks, and honest demonstrations. Fictional identities, illustrative datasets, client-authoritative behavior, disabled payment paths, and home-lab work are labeled plainly.
+## Capability map
 
-## Selected technologies
+- **Identity and access:** lifecycle operations, access requests, Active Directory, Microsoft Entra ID concepts, SailPoint operations concepts, access reviews, least privilege, SoD, and audit evidence.
+- **Incident engineering:** classification, evidence capture, escalation design, failure paths, human review, runbooks, and closure validation.
+- **Cloud and application operations:** HTTP and API troubleshooting, health checks, monitoring design, Cloudflare Workers, containers, hosted applications, and recovery planning.
+- **Technical delivery:** JavaScript, TypeScript, C++17, Ruby on Rails, REST APIs, PostgreSQL, SQLite, Docker, GitHub Actions, testing, and documentation.
 
-**Operations:** ServiceNow · Active Directory · SailPoint · Microsoft 365 · Intune · endpoint and backup workflows  
-**Cloud and delivery:** Cloudflare Workers · Azure learning · Docker · GitHub Actions · Render · Vercel  
-**Backend and data:** C++17 · Drogon · Ruby on Rails · REST APIs · PostgreSQL · SQLite · JSON  
-**Frontend:** JavaScript · TypeScript · HTML · CSS · responsive and accessible UI  
-**Systems:** Linux CLI · LAMP · FreePBX · VPN support · TCP/IP troubleshooting · virtualization
+## Evidence boundaries
 
-## Ongoing development
-
-- Developing deeper Azure administration, automation, container, identity-security, and cloud-operations skills.
-- Maintaining portfolio systems that demonstrate supportability, security boundaries, failure handling, and maintainable handover.
-- Improving documentation and validation as the projects evolve.
+- Professional experience is described as professional experience.
+- IAM tenant workflows, identities, tickets, and access-review results in the public lab are fictional and sanitized.
+- Azure is a developing capability supported by hands-on study and related deployed systems, not presented as deep production administration experience.
+- Live applications demonstrate deployment and operational thinking; they do not imply enterprise scale or an availability commitment.
+- Production-readiness sections identify gaps in logging, monitoring, recovery, security, capacity, and integration instead of hiding them.
 
 ---
 
-[Explore the portfolio](https://joshuadelacruz.solutions/) · [View project workspaces](https://joshuadelacruz.solutions/workspaces/) · [LinkedIn](https://www.linkedin.com/in/joshua-l-dela-cruz/)
+[Explore the portfolio](https://joshuadelacruz.solutions/) · [Open the IAM case study](https://joshuadelacruz.solutions/iam-support/) · [Review all workspaces](https://joshuadelacruz.solutions/workspaces/)
