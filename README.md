@@ -4,7 +4,9 @@
 
 ### Enterprise Support · Identity Governance · Incident Engineering
 
-I build explainable IT-operations workflows and fictional identity-governance learning labs. My work draws on 7+ years of enterprise IT support experience across incident ownership, access support, troubleshooting, escalation and technical handoff.\n\nStart with the incident-triage workflow to inspect structured recommendations, or explore the IAM lab for lifecycle controls, access reviews and incident evidence.
+I build explainable IT-operations workflows and fictional identity-governance learning labs. My work draws on 7+ years of enterprise IT support experience across incident ownership, access support, troubleshooting, escalation and technical handoff.
+
+Start with the incident-triage workflow to inspect structured recommendations, or explore the IAM lab for lifecycle controls, access reviews and incident evidence.
 
 [Portfolio](https://joshuadelacruz.solutions/) · [IAM Flagship](https://github.com/joshua-l-delacruz/iam-support-operations-lab) · [IAM Case Study](https://joshuadelacruz.solutions/iam-support/) · [LinkedIn](https://www.linkedin.com/in/joshua-l-dela-cruz/)
 
