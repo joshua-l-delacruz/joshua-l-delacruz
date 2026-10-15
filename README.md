@@ -4,7 +4,7 @@
 
 ### Enterprise Support · Identity Governance · Incident Engineering
 
-I bring 7+ years of enterprise IT support experience across incident ownership, access support, directory and application workflows, troubleshooting, escalation, and technical handoff. I pair that foundation with independently designed, tested, and deployed systems for IAM operations, access governance, incident decision support, automation, APIs, and cloud delivery.
+I build explainable IT-operations workflows and fictional identity-governance learning labs. My work draws on 7+ years of enterprise IT support experience across incident ownership, access support, troubleshooting, escalation and technical handoff.\n\nStart with the incident-triage workflow to inspect structured recommendations, or explore the IAM lab for lifecycle controls, access reviews and incident evidence.
 
 [Portfolio](https://joshuadelacruz.solutions/) · [IAM Flagship](https://github.com/joshua-l-delacruz/iam-support-operations-lab) · [IAM Case Study](https://joshuadelacruz.solutions/iam-support/) · [LinkedIn](https://www.linkedin.com/in/joshua-l-dela-cruz/)
 
@@ -12,13 +12,19 @@ I bring 7+ years of enterprise IT support experience across incident ownership, 
 
 ---
 
-## Featured evidence
+## Explore the projects
 
-| Project | What it demonstrates |
+| Project | What you can explore |
 |---|---|
 | [IAM Support Operations Lab](https://github.com/joshua-l-delacruz/iam-support-operations-lab) | JML workflows, access reviews, SoD, privileged-access routing, exception handling, audit evidence, incident cases, and production-readiness planning. |
 | [IT Incident Triage & Decision Support](https://github.com/joshua-l-delacruz/ai-it-incident-triage) | Deterministic P1-P4 classification, optional AI enrichment, explainable routing, human-review gates, and automated tests. |
 | [Lab Docs / Portfolio Platform](https://github.com/joshua-l-delacruz/lab-docs) | Deployed case studies, interactive demonstrations, Cloudflare controls, security-policy tests, and portfolio regression checks. |
+
+## Contribute
+
+Focused bug reports, fictional examples, regression tests and documentation improvements are welcome. Start with the [incident-triage contribution guide](https://github.com/joshua-l-delacruz/ai-it-incident-triage/blob/main/CONTRIBUTING.md) and its maintenance roadmap. Use only fictional or sanitized data and follow each repository's private security-reporting process.
+
+The incident-triage workflow and C++ calculator have MIT licenses. Check the current licensing in each other repository before reuse.
 
 ## Core capabilities
 
